@@ -4,7 +4,7 @@ using namespace std;
 
 class Solution {
 public:
-int n;
+int n;  
 int m;
 vector<vector<int>> dp;
 int f(int i,int j){
